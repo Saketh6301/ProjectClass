@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56337" started-at="2018-04-04T15:09:34Z" finished-at="2018-04-04T15:10:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56337" started-at="2018-04-04T15:09:34Z" finished-at="2018-04-04T15:10:30Z">
+      <class name="com.logicinvoice.testscripts.testInvoices">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.logicinvoice.testscripts.testInvoices@3043fe0e]" name="openApp" is-config="true" duration-ms="41500" started-at="2018-04-04T15:09:34Z" finished-at="2018-04-04T15:10:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="addInvoices()[pri:3, instance:com.logicinvoice.testscripts.testInvoices@3043fe0e]" name="addInvoices" duration-ms="14805" started-at="2018-04-04T15:10:15Z" finished-at="2018-04-04T15:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addInvoices -->
+      </class> <!-- com.logicinvoice.testscripts.testInvoices -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
